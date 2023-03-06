@@ -84,7 +84,7 @@ function  getRandLyric($lyrics){
                 <footer><cite>Louis Armstrong</cite> - 1964</footer>
             </blockquote>
         </main>
-        <footer id="site-footer">
+        <footer id="site-footer" class="text-center">
             <p>Crédit image <a href='https://www.freepik.com/vectors/background'>Background vector created by starline - www.freepik.com</a></p>
         </footer>
     </div>
